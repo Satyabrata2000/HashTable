@@ -2,7 +2,7 @@ package HashTable;
 
 import java.util.Hashtable;
 
-public class HashTableExample2 {
+public class Example2 {
 
     public static void main(String[] args) {
 

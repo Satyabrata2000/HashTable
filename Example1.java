@@ -3,7 +3,7 @@ package HashTable;
 import java.util.Hashtable;
 import java.util.Map;
 
-public class HashTableExample1 {
+public class Example1 {
 
     public static void main(String[] args) {
 
